@@ -1,0 +1,23 @@
+.iconImage {
+  background-image: url(https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIIcon@legacyImages-sprite_2x-13acd72bb22e0c502de00d0afe21c494871da686._V2_.png);
+  background-position: -5px -490px;
+  background-size: 400px 900px;
+  display: inline-block;
+  height: 15px;
+  vertical-align: top;
+  vertical-align: baseline;
+  width: 54px;
+}
+
+.price {
+  color: #B12704;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+}
+
+.primeRegard {
+  color: #555;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  margin-left: 10px;
+}

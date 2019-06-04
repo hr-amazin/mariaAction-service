@@ -1,0 +1,17 @@
+.priceAsString {
+ font-family: Arial, sans-serif;
+ font-size: 13px;
+ color: #B12704;
+ margin-bottom: 20px;
+}
+
+.shipping {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #555555;
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
